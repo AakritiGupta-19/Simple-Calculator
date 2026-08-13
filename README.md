@@ -8,7 +8,7 @@ A simple and user-friendly calculator built using HTML, CSS, and JavaScript.
 
 ## 📸 Project Preview
 
-![Simple Calculator](calculator.png)
+![Simple Calculator](calculator.jpeg)
 
 ## ✨ Features
 
